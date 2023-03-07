@@ -3,6 +3,13 @@
 ![Badge in developmen](http://img.shields.io/static/v1?label=STATUS&message=developing&color=GREEN&style=for-the-badge) 
 ![Badge](https://img.shields.io/badge/With-Alura-%237159c1?style=for-the-badge&logo=blue)
 
+<h1>:computer: Functionalities</h1>
+- Registration of a new collaborator
+- Registration of a new team
+- Action to delete collaborator
+- Action to favorite a collaborator
+- Action to change team color
+
 <h1>:computer: Technologies</h1>
 
 :pushpin: <b>FRONT-END</b>
