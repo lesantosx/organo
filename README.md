@@ -1,6 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/20993374/222442072-a9199a1e-3ef6-460c-8e66-240a22220558.png) 
 
-![Badge in developmen](http://img.shields.io/static/v1?label=STATUS&message=developing&color=GREEN&style=for-the-badge) 
+![Badge in developmen](http://img.shields.io/static/v1?label=STATUS&message=finished&color=GREEN&style=for-the-badge) 
 ![Badge](https://img.shields.io/badge/With-Alura-%237159c1?style=for-the-badge&logo=blue)
 
 <h1>:computer: Functionalities</h1>
