@@ -6,7 +6,7 @@
 <h1>:computer: Functionalities</h1>
 <li>Registration of a new collaborator</li>
 <li>Registration of a new team</li>
-<li>Action to delete collaborator</li>
+<li>Action to delete a collaborator</li>
 <li>Action to favorite a collaborator</li>
 <li>Action to change team color</li>
 
