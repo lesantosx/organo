@@ -4,10 +4,10 @@
 ![Badge](https://img.shields.io/badge/With-Alura-%237159c1?style=for-the-badge&logo=blue)
 
 <h1>:computer: Functionalities</h1>
-<li>Registration of a new collaborator</li>
-<li>Registration of a new team</li>
-<li>Action to delete a collaborator</li>
-<li>Action to favorite a collaborator</li>
+<li>Register a new employee</li>
+<li>Register a new team</li>
+<li>Action to delete a employee</li>
+<li>Action to favorite a employee</li>
 <li>Action to change team color</li>
 
 <h1>:computer: Technologies</h1>
